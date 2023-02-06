@@ -1,0 +1,16 @@
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\bin\Debug\net5.0\ExerciciosDictionary.exe
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\bin\Debug\net5.0\ExerciciosDictionary.deps.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\bin\Debug\net5.0\ExerciciosDictionary.runtimeconfig.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\bin\Debug\net5.0\ExerciciosDictionary.runtimeconfig.dev.json
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\bin\Debug\net5.0\ExerciciosDictionary.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\bin\Debug\net5.0\ExerciciosDictionary.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.csproj.AssemblyReference.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.AssemblyInfoInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.AssemblyInfo.cs
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.csproj.CoreCompileInputs.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\refint\ExerciciosDictionary.dll
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.pdb
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ExerciciosDictionary.genruntimeconfig.cache
+C:\Users\tsfel\OneDrive\Documentos\IBRF\M4\ExerciciosDictionary\ExerciciosDictionary\obj\Debug\net5.0\ref\ExerciciosDictionary.dll
